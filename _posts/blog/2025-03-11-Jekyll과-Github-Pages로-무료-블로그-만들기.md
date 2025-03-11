@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Jekyll과 Github Pages로 무료 블로그 만들기"
-excerpt: [Jekyll과 Github의 만남]
+title: "Jekyll과 Github Pages로 무료 블로그 만들기 (1탄)"
+excerpt: Jekyll과 Github의 만남
 date: 2025-03-11 18:58:17 +0900
 tags: [Jekyll, Github, 블로그]
 categories: [blog]
@@ -12,7 +12,7 @@ image:
 comments: true
 share: true
 ---
-# Jekyll과 GitHub Pages로 무료 블로그 만들기
+# Jekyll과 GitHub Pages로 무료 블로그 만들기 (1탄)
 
 컴퓨터에 익숙하지 않아도 걱정하지 마세요. 이 글에서는 Jekyll과 GitHub Pages를 사용하여 무료로 전문적인 블로그를 만드는 과정을 쉽게 설명해 드립니다.
 
